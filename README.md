@@ -1,6 +1,6 @@
-#Prediction of loan Approval of Customers based on Credit Scoring Using Machine Learning<br>
+#Prediction of loan Approval of Customers based on Credit Scoring Using Machine Learning<br><br>
  This project aims at using machine learning to predict creditworthiness based on credit scoring.<br>
-Credit scoring is a statistical way of determining the credit risk of a poten- tial customer.Lenders consider many other aspects such as income, family members, payment history, debt, work experience, current financial situation, etc. Personal assessment of these variables can be time- consuming and costly. Therefore, credit scoring should be automated by machine learning.<br>
+Credit scoring is a statistical way of determining the credit risk of a poten- tial customer.Lenders consider many other aspects such as income, family members, payment history, debt, work experience, current financial situation, etc. <br>Personal assessment of these variables can be time- consuming and costly. Therefore, credit scoring should be automated by machine learning.<br>
 In this loan prediction approval system, these machine learning models have been utilised: - Logistic Regression, Random Forest, LDA (Linear Discriminant Analysis),Decision Tree and KNN (K-Nearest Neighbour).
 <br>
 The dataset is obtained from Kaggle. Our dataset consists of 614 rows and 13 columns. Credit score column has been added afterwards. The credit score has been calculated on the basis of 4 parameters: Income, Education, Employment, and Loan Amount.
